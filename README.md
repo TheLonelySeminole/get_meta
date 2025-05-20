@@ -1,7 +1,7 @@
 # get_meta.py
 
 + Python script using Playerctl to pull metadata from Spotify and output json data to a custom Waybar module
-+
++ Added on-click to play or pause
 + Waybar config
 Add "custom/media" to module section and then paste this in config
 '''
